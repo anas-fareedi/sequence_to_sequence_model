@@ -1,4 +1,2 @@
 # sequence_to_sequence_model
-there is
-dfgager
-tgrtggtreg
+its practise model using rnn
